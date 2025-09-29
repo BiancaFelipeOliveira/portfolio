@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+body {
+    background-image: url('../images/background.png');
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.img_test {
+    background-color: white;
+    width: 59px;
+    height: 59px;
+    border-radius: 15px;
+}
